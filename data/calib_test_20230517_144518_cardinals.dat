@@ -1,0 +1,6 @@
+x y
+left -128 0
+right 127 0
+front 0 -128
+center 0 0
+back 0 127
